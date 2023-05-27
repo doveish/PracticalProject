@@ -1,8 +1,9 @@
 # Description
 The application was created for an assignment which required for a non trivial application as a solution to a problem.
-*The appliction had to use a database in some way. 
-*The process flow and the database structure overview had to be mapped.
-*The SQL code had to be uploaded for replication purposes.
+The requirements for this project were:
+* The appliction had to use a database in some way. 
+* The process flow and the database structure overview had to be mapped.
+* The SQL code had to be uploaded for replication purposes.
 
 # Portfol_IO
 ![header](https://github.com/doveish/PracticalProject/assets/125504453/fb59b949-e02c-4d87-ba72-cb21b1c06f9e)
