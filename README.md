@@ -7,8 +7,13 @@
 # Project workflow
 ![diagram](https://github.com/doveish/PracticalProject/assets/125504453/b612fe64-a278-4ce1-bdc0-bc6672601388)
 
-# Requiered software
+# Required software
 In order to run the application You need to have the following software installed:
 * Java Development Kit
 * IntelliJ Idea
 * MySQL 
+
+# Authors
+The project was developed by @corvert and @doveish.
+
+
