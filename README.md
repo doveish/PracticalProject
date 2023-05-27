@@ -14,6 +14,6 @@ In order to run the application You need to have the following software installe
 * MySQL 
 
 # Authors
-The project was developed by @corvert and @doveish.
+The project was developed by [@corvert] (https://github.com/corvert) and [@doveish[ (https://github.com/doveish).
 
 
