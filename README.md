@@ -9,7 +9,7 @@ To fulfill the given conditions we chose a stock, transaction, dividend and acco
 allows the user to save the data to a database for future review. We also decided to add several calculation 
 methods to simplify the tax handling of transactions etc. Our application allows the user to read and write 
 stockmarket related portfolio processes via IntelliJ console in our test case. So without further delay,
-**PLEASE WELCOME, PORTFOL_IO!**
+PLEASE WELCOME, PORTFOL_IO!
 </p>
 
 # Portfol_IO
