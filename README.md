@@ -1,7 +1,8 @@
 # Description
-The application was created for an assignment which required for a non trivial application creation.
-The appliction had to use a database in some way. Also the process flow and the database structure overview
-had to be created.
+*The application was created for an assignment which required for a non trivial application creation.
+ The appliction had to use a database in some way. Also the process flow and the database structure overview
+ had to be created.
+*The
 
 # Portfol_IO
 ![header](https://github.com/doveish/PracticalProject/assets/125504453/fb59b949-e02c-4d87-ba72-cb21b1c06f9e)
