@@ -1,17 +1,3 @@
-# Description
-The application was created for an assignment which required for a non trivial application as a solution to a problem.
-The requirements for this project were:
-* The appliction had to use a database in some way. 
-* The process flow and the database structure overview had to be mapped.
-* The SQL code had to be uploaded for replication purposes.
-
-To fulfill the given conditions we chose a stock, transaction, dividend and account tracking application which 
-allows the user to save the data to a database for future review. We also decided to add several calculation 
-methods to simplify the tax handling of transactions etc. Our application allows the user to read and write 
-stockmarket related portfolio processes via IntelliJ console in our test case. So without further delay,
-PLEASE WELCOME, PORTFOL_IO!
-
-
 # Portfol_IO
 ![header](https://github.com/doveish/PracticalProject/assets/125504453/fb59b949-e02c-4d87-ba72-cb21b1c06f9e)
 
@@ -27,6 +13,19 @@ In order to run the application You need to have the following software installe
 * Java Development Kit
 * IntelliJ Idea
 * MySQL 
+
+# Description
+The application was created for an assignment which required for a non trivial application as a solution to a problem.
+The requirements for this project were:
+* The appliction had to use a database in some way. 
+* The process flow and the database structure overview had to be mapped.
+* The SQL code had to be uploaded for replication purposes.
+
+To fulfill the given conditions we chose a stock, transaction, dividend and account tracking application which 
+allows the user to save the data to a database for future review. We also decided to add several calculation 
+methods to simplify the tax handling of transactions etc. Our application allows the user to read and write 
+stockmarket related portfolio processes via IntelliJ console in our test case. So without further delay,
+PLEASE WELCOME, PORTFOL_IO!
 
 # Authors
 The project was developed by @corvert(https://github.com/corvert) @doveish(https://github.com/doveish).
