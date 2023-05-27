@@ -1,11 +1,10 @@
 # Description
-<p align="justify"> 
 The application was created for an assignment which required for a non trivial application as a solution to a problem.
 The requirements for this project were:
 * The appliction had to use a database in some way. 
 * The process flow and the database structure overview had to be mapped.
 * The SQL code had to be uploaded for replication purposes.
-
+<p align="justify"> 
 To fulfill the given conditions we chose a stock, transaction, dividend and account tracking application which 
 allows the user to save the data to a database for future review. We also decided to add several calculation 
 methods to simplify the tax handling of transactions etc. Our application allows the user to read and write 
