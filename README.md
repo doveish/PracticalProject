@@ -17,4 +17,7 @@ In order to run the application You need to have the following software installe
 # Authors
 The project was developed by @corvert(https://github.com/corvert) @doveish(https://github.com/doveish).
 
+# Found a bug or want to add a feature
+Please submit an issue or an improvement idea using the issues tab above. If You would like to submit a PR with a fix, 
+reference the issue you created.
 
