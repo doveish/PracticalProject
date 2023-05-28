@@ -1,0 +1,1 @@
+<logger name="org.hibernate.type" level="TRACE" /> <logger name="org.hibernate" level="DEBUG" />
