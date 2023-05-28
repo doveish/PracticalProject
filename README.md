@@ -27,6 +27,7 @@ In order to run the application You need to have the following software installe
 * Java Development Kit - during development we used JDK version 19 or higher.
 * IntelliJ Idea - change the Hibernate Connection Settings(Driver, URL, Username and Password) in Resources folder file hibernate.cfg.xml
 * MySQL - create and populate the Database with the given Queries in the SQL file of this repository. 
+* Please get the project files from "main" branch of this repository.
 
 # Authors
 The project was developed by @corvert(https://github.com/corvert) @doveish(https://github.com/doveish).
