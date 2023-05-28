@@ -1,5 +1,5 @@
 # Description
-<hr style="border:2px color=#00ff80> </hr>
+<hr style="border:2px backround-color=#00ff80> </hr>
 The application was created for an assignment which required for a non trivial application as a solution to a problem.
 The requirements for this project were:
 * The appliction had to use a database in some way. 
