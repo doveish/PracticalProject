@@ -1,14 +1,4 @@
 # Description
-
-<mjml>
-  <mj-body>
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="3px" border-style="solid" border-color=#00ff80 />
-      </mj-column>
-    </mj-section>
-  </mj-body>
-</mjml>
 The application was created for an assignment which required for a non trivial application as a solution to a problem.
 The requirements for this project were:
 * The appliction had to use a database in some way. 
