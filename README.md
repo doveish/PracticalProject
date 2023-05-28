@@ -22,11 +22,11 @@ please welcome PORTFOL_IO!
 # Project flowchart
 ![diagram](https://github.com/doveish/PracticalProject/assets/125504453/b612fe64-a278-4ce1-bdc0-bc6672601388)
 
-# Required software
+# Required software and TO-DO
 In order to run the application You need to have the following software installed:
-* Java Development Kit
-* IntelliJ Idea
-* MySQL 
+* Java Development Kit - during development we used JDK version 19 or higher.
+* IntelliJ Idea - change the Hibernate Connection Settings(Driver, URL, Username and Password) in Resources folder file hibernate.cfg.xml
+* MySQL - create and populate the Database with the given Queries in the SQL folder of this repository. 
 
 # Authors
 The project was developed by @corvert(https://github.com/corvert) @doveish(https://github.com/doveish).
